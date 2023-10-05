@@ -4,6 +4,7 @@ metadata:
   name: grypeadmissioncontroller
   annotations:
     github.com/project-slug: tibers/grypeadmissioncontroller
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
